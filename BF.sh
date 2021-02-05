@@ -20,3 +20,5 @@ echo "
 ┌───── •✧✧• ─────┐
    BF PROJECT 
 └───── •✧✧• ─────┘ "
+Colaborador y Gran amigo: Ｌｅｇｅｎｄ　Ｗｅｄｅｌｆ　しぃ域
+
